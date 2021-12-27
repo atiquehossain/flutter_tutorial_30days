@@ -14,8 +14,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: Text("Title"),
-        leading: Text("leading"),
-        actions: [Text("Action")],
+
       ),
       drawer: Drawer(),
       body:Center(
